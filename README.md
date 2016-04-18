@@ -1,2 +1,12 @@
 # Pizza-Planet-App
-A web page for Pizza Planet's menu
+
+-----------------
+
+###Project Overview
+Create a web page to display the menu for Pizza Planet
+
+### Learning Outcome
+* Intro to Angular and its controller
+
+###Resources
+* [Codecademy](http://www.codecademy.com/)
